@@ -1,5 +1,7 @@
 # Unit Converter
 
+#### [Live Demo](https://guido732.github.io/unit-converter/)
+
 Simple Vanilla JavaScript project - Units converter (weight, distance, liquids, etc).  
 It uses bootstrap and minimal CSS markup to style and vanilla JS for functionality.
 
